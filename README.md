@@ -1,5 +1,5 @@
 # Academic Project Page Template
-This is an academic paper project page for continous audio visual segmentation
+This is an academic paper project page for continous audio visual segmentation. It can be viewed on https://casiahyy.github.io/Continual_AVSSeg.github.io/.
 
 **IMPORTANT!** Make sure to replace the `favicon.ico` under `static/images/` with one of your own, otherwise your favicon is going to be a dreambooth image of me.
 
